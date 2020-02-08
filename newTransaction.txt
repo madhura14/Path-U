@@ -1,0 +1,6 @@
+Aapple#1@Cherry#10@Dates#1
+Aapple#2@Cherry#6@Elderberry#2@Grape#5
+Aapple#2@Banana#2@Dates#6@Elderberry#2@Fig#1
+Banana#4@Cherry#13@Dates#3@Elderberry#1
+Banana#2@Cherry#4@Elderberry#1@Grape#2
+Aapple#1@Banana#1@Cherry#1@Dates#1@Hackberry#2

@@ -1,0 +1,8 @@
+Aapple#5
+Banana#2
+Cherry#1
+Dates#2
+Elderberry#3
+Fig#5
+Grape#1
+Hackberry#1
